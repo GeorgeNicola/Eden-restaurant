@@ -391,7 +391,6 @@ footer .copyrights{
     rgba(0, 0, 0, 0.4)), url(https://raw.githubusercontent.com/GeorgeNicola/Images/master/home-banner.jpg);
     background-size:cover;
     background-position:center;
-    background-repeat: no-repeat;
     filter: blur(2px);
     transform: scale(1.1);
 }
